@@ -1,0 +1,4 @@
+#include <stdio.h>;
+viod main;
+int var (200);
+printf (2010);
